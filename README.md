@@ -40,6 +40,8 @@ In Food-Gen it use flet for user-friendly UI. It has both English and Tamil sect
 ## Dataflow Diagram
 ![image](https://github.com/user-attachments/assets/d9ca8cbd-1806-4071-a304-7a056312ca99)
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
